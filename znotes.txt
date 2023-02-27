@@ -1,0 +1,44 @@
+FOCUS: SQL Queries
+
+Four Categories:
+1. DML - Data Manipulation Language
+    - INSERT, UPDATE, DELETE, SELECT
+
+2. DDL - Data Definition Language
+    - CREATE, ALTER, MODIFY, DROP
+
+3. DCL - Data Control Language
+    - PERMISSIONS
+
+4. TCL - Transaction Control Language
+    - BEGIN, COMMIT, ROLLBACK
+
+
+
+
+
+
+
+
+1. Understand the domain
+2. "belongs to" vs "has one/many"
+
+Business Analyst > Solutions Architect (Consulting World)
+Product Manager > Tech Lead (Product Company)
+Business Requirements > Technical Requirements 
+
+
+
+
+
+
+
+
+
+
+Bonus: How do you sort your wardrobe?
+
+How do you design data structure?
+Answers:
+1. How the data is retrieved?
+2. Then, how the data is stored (source)?
